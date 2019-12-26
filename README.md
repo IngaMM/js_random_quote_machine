@@ -13,5 +13,7 @@ Instructions
 Discussion
 I used the following technologies: HTML, CSS with SCSS and Bootstrap, Javascript with Jquery.
 
+A live version can be seen at https://codepen.io/IngaMM/full/OarYKb
+
 Requirements
 npm, browser
