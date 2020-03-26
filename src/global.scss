@@ -1,7 +1,24 @@
+html,
+body {
+  height: 100%;
+}
+
+.container-fluid {
+  height: 100%;
+  position: relative;
+}
+
+#center-box {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  transform: translateY(-50%);
+}
+
 #text {
   font-size: 30px;
-  margin-top: 150px;
-  padding-top: 30px;
 }
 
 #author {
@@ -27,8 +44,7 @@ $background-colors: (
   #c83349,
   #5b9aa0,
   #d6d4e0,
-  #b8a9c9,
-  #622569
+  #b8a9c9
 );
 
 @for $i from 1 through length($background-colors) {

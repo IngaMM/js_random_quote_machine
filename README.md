@@ -7,7 +7,7 @@ A project of Free Code Camp: https://www.freecodecamp.org/learn/front-end-librar
 Instructions
 
 1. Run npm install
-2. Run npx webpack (don't wait for it to finish)
+2. Run npx webpack
 3. Open dist/index.html with a browser.
 
 Discussion
