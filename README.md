@@ -11,9 +11,9 @@ Instructions
 3. Open dist/index.html with a browser.
 
 Discussion
-I used the following technologies: HTML, CSS with SCSS and Bootstrap, Javascript with Jquery. This app is setup with webpack and makes an AJAX-request to an external API to receive the quotes. The quotes can be retweeted by Twitter.
+I used the following technologies: Javascript, HTML, CSS.
 
-A live version can be seen at https://codepen.io/IngaMM/full/OarYKb
+This app shows a motivating quote that it gets from an external API by an AJAX-request. Clicking the button shows a new quote. The quote can be retweeted by Twitter. jQuery and SASS are used and a little bit of Bootstrap for styling.
 
 Requirements
 npm, browser
